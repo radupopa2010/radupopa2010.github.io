@@ -6,7 +6,7 @@
 	background-color: #E2D6D6;
 }
 
-.header1{
+.firstROW{
 	display: flex;
 	width: 100%;
 }
@@ -27,7 +27,9 @@
 	font-family: 'Poiret One', cursive;
 	font-size: 1.5em;
 }
-
+#thirdRow{
+	margin:auto;
+}
 /* @media screen and (min-width: 960px){
 	body {
 	margin-left:auto;
