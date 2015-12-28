@@ -89,6 +89,8 @@ hr {
 	text-align: center;
 }
 
-.secondProject a:first-child {
+.firstProject a:first-child,
+.secondProject a:first-child
+ {
 	margin-right: 6.5em;
 }
