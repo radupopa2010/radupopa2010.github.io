@@ -69,8 +69,9 @@ hr {
 }
 
 .frontEnd{
-    margin: 0.9em auto auto 1.4em;
-	width: 100%;
+	margin: 0.9em 1.3em auto 1.4em;
+    width: 100%;
+    background-color: #42A5F5;
 }
 
 .thirdRow{
@@ -93,4 +94,27 @@ hr {
 .secondProject a:first-child
  {
 	margin-right: 6.5em;
+}
+
+.backEnd{
+	margin: 0.9em 1.3em auto 1.4em;
+    width: 100%;
+    background-color: #42A5F5;
+}
+
+.fourthRow{
+	width: 100%;
+	display: flex;
+}
+
+.fourthRow h4 {
+	text-align: center;
+}
+
+.fourthProject{
+	margin-left: 1.6em;
+}
+
+.fifthProject{
+    margin: 0em 1.6em;
 }
