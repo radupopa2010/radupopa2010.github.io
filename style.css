@@ -62,16 +62,33 @@ hr {
 }
 
 .featuredWork{
-	margin: 1em auto auto 7.8em;
-	width: 100%;	
+	margin: 1em 0.9em auto 0.9em;
+	width: 100%;
+	background-color: #08477C;
+    color: white;
 }
 
 .frontEnd{
-	margin: 1em auto auto 10.1em;
+    margin: 0.9em auto auto 1.4em;
 	width: 100%;
 }
 
 .thirdRow{
 	width: 100%;
-	
+	display: flex;
+}
+
+.firstProject{
+	margin-left: 1.6em;
+}
+.secondProject{
+    margin: auto 1.6em;
+}
+
+.thirdRow h4 {
+	text-align: center;
+}
+
+.secondProject a:first-child {
+	margin-right: 6.5em;
 }
