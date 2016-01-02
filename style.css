@@ -65,13 +65,14 @@ hr {
 	margin: 1em 0.9em auto 0.9em;
 	width: 100%;
 	background-color: #08477C;
-    color: white;
+  color: white;
 }
 
 .frontEnd{
 	margin: 0.9em 1.3em auto 1.4em;
-    width: 100%;
-    background-color: #42A5F5;
+  width: 100%;
+	background-color: #08477C;
+	color: white;
 }
 
 .thirdRow{
@@ -98,8 +99,9 @@ hr {
 
 .backEnd{
 	margin: 0.9em 1.3em auto 1.4em;
-    width: 100%;
-    background-color: #42A5F5;
+	width: 100%;
+	background-color: #08477C;
+	color: white;
 }
 
 .fourthRow{
@@ -109,6 +111,9 @@ hr {
 
 
 .fourthRow h4 {
+	text-align: center;
+}
+.fifthRow h4 {
 	text-align: center;
 }
 
