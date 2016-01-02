@@ -12,7 +12,7 @@ body {
 	max-width: 960px;
     margin: auto;
 	background-color: #E2D6D6;
-	
+
 }
 
 .firstROW{
@@ -107,6 +107,7 @@ hr {
 	display: flex;
 }
 
+
 .fourthRow h4 {
 	text-align: center;
 }
@@ -117,4 +118,16 @@ hr {
 
 .fourthProject{
     margin: 0em 1.6em;
+}
+
+.fifthRow{
+	width: 100%;
+	display: flex;
+}
+
+.sixthProject{
+	margin: 0em 1.6em;
+}
+.seventhProject{
+	margin: 0em 1.6em;
 }
