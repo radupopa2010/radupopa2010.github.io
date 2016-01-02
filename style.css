@@ -6,12 +6,17 @@ body {
 	margin: 0px;
 }
 
+p{
+	margin: 0.5em;
+	line-height: 1.5em;
+	padding: 0.4em;
+}
 .container {
 	display:flex;
 	flex-wrap: wrap;
 	max-width: 960px;
-    margin: auto;
-	background-color: #E2D6D6;
+  margin: auto;
+	/*background-color: #E2D6D6;*/
 
 }
 
@@ -62,17 +67,19 @@ hr {
 }
 
 .featuredWork{
-	margin: 1em 0.9em auto 0.9em;
+	margin: 1em auto auto 0.9em;
 	width: 100%;
 	background-color: #08477C;
   color: white;
+	padding-left: 1em;
 }
 
 .frontEnd{
-	margin: 0.9em 1.3em auto 1.4em;
+  margin: 0.9em auto auto 1.2em;
   width: 100%;
 	background-color: #08477C;
 	color: white;
+  padding-left: 1.25em;
 }
 
 .thirdRow{
@@ -81,10 +88,12 @@ hr {
 }
 
 .firstProject{
-	margin-left: 1.6em;
+	margin: 1em auto auto 1.6em;
+  border: 1px solid #08477C;
 }
 .secondProject{
-    margin: auto 1.6em;
+	margin: 1em auto auto 1.6em;
+  border: 1px solid #08477C;
 }
 
 .thirdRow h4 {
@@ -98,10 +107,11 @@ hr {
 }
 
 .backEnd{
-	margin: 0.9em 1.3em auto 1.4em;
-	width: 100%;
+	margin: 0.9em auto auto 1.2em;
+  width: 100%;
 	background-color: #08477C;
 	color: white;
+  padding-left: 1.25em;
 }
 
 .fourthRow{
@@ -118,11 +128,13 @@ hr {
 }
 
 .thirdProject{
-	margin-left: 1.6em;
+	margin: 1em auto auto 1.6em;
+  border: 1px solid #08477C;
 }
 
 .fourthProject{
-    margin: 0em 1.6em;
+	margin: 1em auto auto 1.6em;
+  border: 1px solid #08477C;
 }
 
 .fifthRow{
@@ -131,8 +143,11 @@ hr {
 }
 
 .sixthProject{
-	margin: 0em 1.6em;
+	margin: 1em auto auto 1.6em;
+	border: 1px solid #08477C;
+	width: 50%;
 }
+
 .seventhProject{
-	margin: 0em 1.6em;
-}
+	margin: 1em auto auto 1.6em;
+  border: 1px solid #08477C;}
